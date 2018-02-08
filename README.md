@@ -30,7 +30,6 @@ Raspberry Pi를 할때에는 모니터가 필요하다. Raspberry Pi는 HDMI 밖
 
 </br>
 </br>
-</br>
 
 # 라즈베리파이에 openCV 설치
 <--! 추후에 적을게요.. -->
