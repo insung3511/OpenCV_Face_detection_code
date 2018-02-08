@@ -31,12 +31,20 @@ Raspberry Pi를 할때에는 모니터가 필요하다. Raspberry Pi는 HDMI 밖
 </br>
 </br>
 </br>
+
 # 라즈베리파이에 openCV 설치
-<--! 적을 거지? -->
+<--! 추후에 적을게요.. -->
 
 # 라즈베리파이에 이 코드 설치 및 실행
-<--! 이건 ㄹㅇ 적어야한다.. -->
+<--! 이건 진짜로 적을게요.. -->
 
 # Contect me
-Email : insung.park123@gmail.com
-Facebook : https://www.facebook.com/insung.bahk
+
+If you have problem about this code, then contect me. </br>
+Email : insung.park123@gmail.com  </br>
+Facebook : https://www.facebook.com/insung.bahk </br>
+
+If you want to give me some money..Please send here! </br>
+Bitcoin : 17qKUu57aUBcvx9T1ea8Ga87EPnDdmwAEP
+Ether : 0xdFE8D1536deE8F839Ede7c1f3A0c44116287D931
+Bitcoin Cash : qp90gf09r3y3h06czmtnsfhz9w7s90se4s72vd9pam
