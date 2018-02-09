@@ -12,13 +12,13 @@ true_count = 0    #Checking detection count
 def mylog(start_time, end_time, count):   #show real-time result
     print ('st:%s, et:%s, cnt:%s', start_time, end_time, count)
 
+#open result CSV file
+file = open('./result/res_Insert_name.csv', 'w')
+
 #https://github.com/Itseez/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 cap = cv2.VideoCapture(0)
-
-#open result CSV file
-file = open('./result/res_Insert_name.csv', 'w')
 
 one_m_timer_start = time.time()
 while 1:
