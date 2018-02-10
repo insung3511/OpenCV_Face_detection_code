@@ -32,8 +32,8 @@ Raspberry Pi를 할때에는 모니터가 필요하다. Raspberry Pi는 HDMI 밖
 </br>
 
 # 라즈베리파이 기본 설정
-일단을 설치를 위해서 먼저 운영체제를 먼저 설치 해야한다. <a href="https://goo.gl/UxDLHM"> (라즈비안 다운로드 링크) </a> </br>
-라즈비안 설치 툴은 다 다르지만 나는 <a href="https://etcher.io/"> Etcher </a> 을 이용해서 하였다. </br> 
+일단을 설치를 위해서 먼저 운영체제를 먼저 설치 해야한다. <a href="https://goo.gl/UxDLHM"> 🍰🍓(라즈비안 다운로드 링크)🍓🍰 </a> </br>
+라즈비안 설치 툴은 다 다르지만 나는 <a href="https://etcher.io/"> 💽Etcher💽 </a> 을 이용해서 하였다. </br> 
 </br>
 라즈비안을 SD 카드에 설치를 완료 했다면, SD카드를 라즈베리파이 안에 넣는다. </br>
 그러고 키보드, 마우스, 등 전원을 제외한 필요한 것들을 연결해준다. </br>
@@ -43,7 +43,7 @@ Raspberry Pi를 할때에는 모니터가 필요하다. Raspberry Pi는 HDMI 밖
 인터넷 설정을 다 한후에 본격적으로 <strong>openCV 설치</strong>를 시작할 것이다. 🙌✨
 
 # 라즈베리파이에 openCV 설치하기
-나는 <a href="https://goo.gl/wBp591">PyimageSearch 의 문서</a>를 이용해서 하였다. </br>
+나는 <a href="https://goo.gl/wBp591"> 📸 👨‍💻PyimageSearch📸👩‍💻 의 문서</a>를 이용해서 하였다. </br>
 openCV 관련 문서들이 많은 사이트 들이다. 혹시 openCV 공부 혹은 프로젝트르 한다면 참고하기 좋은 사이트이다. </br>
 </br>
 </br>
@@ -63,7 +63,8 @@ $ python face_eye_detection.py
 </pre>
 </br>
 설치하고 실행하는데 딱히 문제 될게 없다. 얼굴인식 테스팅 중에 카메라 위치를 옮기지 않아야지 측정이 잘된다. </br>
-꼭 참고해서 하길 바란다. 그리고 이 코드는 <strong>라즈베리파이 전용 카메라는 지원하지 않는다.</strong>
+꼭 참고해서 하길 바란다. 그리고 이 코드는 <strong>라즈베리파이 전용 카메라는 지원하지 않는다.</strong> </br>
+라즈베리파이 기본 카메라를 사용할려고 하니, 카메라를 openCV에서 찾질 못했다...</br>
 
 # Contect me
 
