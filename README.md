@@ -43,7 +43,7 @@ Raspberry Pi를 할때에는 모니터가 필요하다. Raspberry Pi는 HDMI 밖
 인터넷 설정을 다 한후에 본격적으로 <strong>openCV 설치</strong>를 시작할 것이다. 🙌✨
 
 # 라즈베리파이에 openCV 설치하기
-나는 <a href="https://goo.gl/wBp591"> 📸 👨‍💻PyimageSearch📸👩‍💻 의 문서</a>를 이용해서 하였다. </br>
+나는 <a href="https://goo.gl/wBp591"> 📸 🐍PyimageSearch🐍📸 의 문서</a>를 이용해서 하였다. </br>
 openCV 관련 문서들이 많은 사이트 들이다. 혹시 openCV 공부 혹은 프로젝트르 한다면 참고하기 좋은 사이트이다. </br>
 </br>
 </br>
