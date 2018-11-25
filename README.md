@@ -73,20 +73,6 @@ Webcam은 어떤 카메라를 사용해도 상관이 없으나 <b> 다만, Raspb
 Raspberry Pi에서 카메라를 인식을 못하는 경우는 보통 크리에이어(유튜버) 같은 사람들이 사용하는 방송용 카메라 같은경우는 안되는 경우도 있다. </br>
 뭐 사실 Raspbian이 리눅스여서 크게 문제가 없을수 있긴 하지만 그래도 주의 할것...! </br>
 
-# Contect me
-
-If you have problem about this code, then contect me. </br>
-Email : insung.park123@gmail.com  </br>
-Facebook : https://www.facebook.com/insung.bahk </br>
-
-If you want to give me some money..Please send here! </br>
-Bitcoin : 17qKUu57aUBcvx9T1ea8Ga87EPnDdmwAEP </br>
-Ether : 0xdFE8D1536deE8F839Ede7c1f3A0c44116287D931 </br>
-Bitcoin Cash : qp90gf09r3y3h06czmtnsfhz9w7s90se4s72vd9pam </br>
-
-</br>
-🙇‍♀️👾🤩Thank you! 🤩👾🙇‍♂️
-
 ## Thank you
 **Contect me**
 
