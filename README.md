@@ -58,7 +58,7 @@ Python 2.7 버전으로 작성이 된 코드 입니다. openCV 설치 하실때 
 </br>
 
 <a href="https://goo.gl/1UfHr2"> Raspberry Pi OpenCV Install </a> <-- 클릭을 하면 Raspberry Pi 3에 openCV를 설치하는 방법에 대해서 나왔다. </br>
-~~다만 영문이다~~
+~~다만 영문이다. 영문이라고 해도 구글 번역기만 있으면 된다. 뭐 어차피 아는 영어 좀 찾고 명령어만 따라 실행 하면 아무런 문제가 없다.~~
 
 # 라즈베리파이에 이 코드 설치 및 실행
 <pre>
